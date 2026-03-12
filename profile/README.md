@@ -15,6 +15,16 @@ A working GitHub Organization that demonstrates what transparent, GitHub-powered
 - Let multiple vendors compete on the same slice
 - Evaluate on delivered value, not proposals
 
+## The Backlog
+
+GitHub Issues serve as the transparent backlog. Anyone can see what's being worked on:
+
+| Issue | Type | Status |
+|-------|------|--------|
+| [#1 MSP Auto-Enrollment](https://github.com/mes-bakeoff-demo/mes-modernization/issues/1) | Slice | In Progress |
+| [#2 Eligibility Verification](https://github.com/mes-bakeoff-demo/mes-modernization/issues/2) | Slice | Available |
+| [#3 Identity Management](https://github.com/mes-bakeoff-demo/mes-modernization/issues/3) | Layer | Available |
+
 ## Repository Structure
 
 | Repo | Purpose |
