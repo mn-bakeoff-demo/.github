@@ -2,13 +2,17 @@
 
 **An independent demonstration of challenge-based procurement for Medicaid Enterprise Systems**
 
+*6 repos. 3 working prototypes. 12 backlog items. Built in 2 hours.*
+
 > **Note:** This is not an official government project. Created by Nick Aretakis, inspired by Minnesota DHS's presentation at HIT Connect 2026.
 
 ---
 
 ## What Is This?
 
-A working GitHub Organization that demonstrates what transparent, GitHub-powered procurement could look like. Instead of 18-36 month RFP cycles:
+A working GitHub Organization that demonstrates what transparent, GitHub-powered procurement could look like — built in 2 hours (hour one during the conference, hour two to deploy everything you see here).
+
+Instead of 18-36 month RFP cycles:
 
 - Publish a backlog of outcomes (not requirements)
 - Run rapid evaluations in days/weeks
